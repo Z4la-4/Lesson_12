@@ -1,0 +1,5 @@
+.venv/
+.idea
+funkcije.py
+boolean.py
+prime_numbers.py
